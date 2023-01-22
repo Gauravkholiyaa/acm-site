@@ -383,7 +383,7 @@ padding :100px;
   }
     
 }
-@media (max-width:600px)
+@media (max-width:375px)
 {
   .navbar-brand {
       padding-right: 100px;
@@ -468,7 +468,7 @@ padding :100px;
 }
 
 }
-@media (max-width:550px) {
+@media (max-width:320px) {
   .section1 {
     padding-bottom: 120px;
   }
